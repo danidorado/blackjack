@@ -1,0 +1,38 @@
+
+body{
+    background:green;
+}
+
+.titulo{
+    text-align: center;
+    padding:30px 0 0 0;
+    color: white;
+    background-color: black;
+    font-size:1.5rem;
+}
+
+.carta{
+    position: relative;
+    max-width:150px;
+    left:100px;
+    margin-left:-75px;
+}
+
+#jugador-cartas, #pc-cartas{
+    height:240px;
+    min-height: 240px !important;
+}
+
+.margin50{
+    margin-left:50px;
+}
+
+button{
+    outline: 0 !important;
+    border: 0 !important;
+    box-shadow: 0 !important;
+}
+
+.white{
+    color: #ffffff;
+}
